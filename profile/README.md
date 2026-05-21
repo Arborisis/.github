@@ -1,7 +1,7 @@
 # Arborisis
 
 <p align="center">
-  <img src="./profile/logo.svg" alt="Arborisis Logo" width="200" />
+  <img src="https://raw.githubusercontent.com/Arborisis/.github/main/profile/logo.svg" alt="Arborisis Logo" width="200" />
 </p>
 
 <p align="center">
@@ -10,8 +10,6 @@
 
 <p align="center">
   <a href="https://arborisis.com"><img src="https://img.shields.io/badge/Website-arborisis.com-4CAF50?style=flat-square&logo=safari&logoColor=white" alt="Website" /></a>
-  <a href="https://discord.gg/arborisis"><img src="https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://twitter.com/arborisis"><img src="https://img.shields.io/badge/Twitter-@arborisis-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
 ---
@@ -131,17 +129,15 @@ La plateforme est decoupee en plusieurs services independants :
 
 ## Contribution
 
-Nous accueillons les contributions ! Veuillez consulter le [CONTRIBUTING.md](https://github.com/Arborisis/app/blob/main/CONTRIBUTING.md) de l'application principale.
+Nous accueillons les contributions ! Veuillez consulter les guidelines de chaque repository.
 
-## Communaute
+## Site web
 
-- **Discord** : [discord.gg/arborisis](https://discord.gg/arborisis)
-- **Twitter** : [@arborisis](https://twitter.com/arborisis)
-- **Site web** : [arborisis.com](https://arborisis.com)
+[arborisis.com](https://arborisis.com)
 
 ## License
 
-Tous les repositories sont sous licence [MIT](LICENSE).
+Tous les repositories sont sous licence [MIT](https://github.com/Arborisis/app/blob/main/LICENSE).
 
 ---
 
